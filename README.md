@@ -1,4 +1,4 @@
-# light_of_hadith
+# Light of Hadith
 
 #### Simple hadith reading app
 
